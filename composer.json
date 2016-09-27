@@ -1,6 +1,7 @@
 {
   "name": "putimtsev/sberbank_internet_acquiring_rest",
   "description": "sberbank_internet_acquiring_rest",
+  "keywords": ["sberbank", "acquiring", "credit card", "client", "rest"],
   "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
