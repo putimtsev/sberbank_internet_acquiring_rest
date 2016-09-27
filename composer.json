@@ -4,7 +4,7 @@
   "keywords": ["sberbank", "acquiring", "credit card", "client", "rest"],
   "homepage": "https://github.com/putimtsev/sberbank_internet_acquiring_rest",
   "minimum-stability": "stable",
-  "license": "proprietary",
+  "license": "MIT",
   "authors": [
     {
       "name": "Evgeniy Putimtsev",
