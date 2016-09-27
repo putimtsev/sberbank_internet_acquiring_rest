@@ -1,0 +1,12 @@
+{
+  "name": "putimtsev/sberbank_internet_acquiring_rest",
+  "description": "sberbank_internet_acquiring_rest",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Evgeniy Putimtsev",
+      "email": "evgeny@putimtsev.ru"
+    }
+  ]
+}
