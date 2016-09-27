@@ -1,6 +1,6 @@
 {
   "name": "putimtsev/sberbank_internet_acquiring_rest",
-  "description": "sberbank_internet_acquiring_rest",
+  "description": "sberbank internet acquiring",
   "keywords": ["sberbank", "acquiring", "credit card", "client", "rest"],
   "homepage": "https://github.com/putimtsev/sberbank_internet_acquiring_rest",
   "minimum-stability": "stable",
